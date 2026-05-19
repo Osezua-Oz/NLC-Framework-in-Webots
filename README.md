@@ -55,12 +55,11 @@ Communication Protocol
 Results
 
 The system successfully demonstrated:
-
-- accurate command interpretation
-2.coordinated multi-agent behaviour
-3.successful target localisation
-4.obstacle avoidance and recovery
-5.dynamic target switching
+  - accurate command interpretation
+  - coordinated multi-agent behaviour
+  - successful target localisation
+  - obstacle avoidance and recovery
+  - dynamic target switching
 
 All follower robots were able to complete assigned tasks and report back to the leader successfully.
 
