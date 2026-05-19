@@ -64,12 +64,12 @@ The system successfully demonstrated:
 All follower robots were able to complete assigned tasks and report back to the leader successfully.
 
 Technologies Used
-1.Webots
-2.Python
-3.Natural Language Processing
-4.Computer Vision
-5.Finite State Machines
-6.Multi-Agent Robotics
+  - Webots
+  - Python
+  - Natural Language Processing
+  - Computer Vision
+  - Finite State Machines
+  - Multi-Agent Robotics
 
 Example command:
 
