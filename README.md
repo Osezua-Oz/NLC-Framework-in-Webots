@@ -1,4 +1,7 @@
 # Implementing Natural Language Control (NLC) Framework in Webots
+Watch Demo Video: https://canva.link/24ucb50t14p52yz
+<img width="782" height="508" alt="image" src="https://github.com/user-attachments/assets/a32316c6-2103-45c3-8e6c-f9690921ff51" />
+
 
 ## Overview
 This project demonstrates the implementation of a **Natural Language Control (NLC)** framework in the **Webots** robotics simulation environment.
