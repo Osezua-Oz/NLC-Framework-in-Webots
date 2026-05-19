@@ -42,8 +42,41 @@ The system follows a **star topology architecture**:
   - Navigate toward assigned targets
   - Search for visual objects
   - Report completion status
+ 
+Communication Protocol
+| Field      | Description                     | Example         |
+| ---------- | ------------------------------- | --------------- |
+| Target ID  | Identifies intended follower(s) | FOLLOWER1 / ALL |
+| Action     | Command issued by leader        | GOTO / STOP     |
+| Coordinate | GPS destination                 | 0.80, 0.00      |
+| Colour     | Target object colour            | RED / BLUE      |
+
+
+Results
+
+The system successfully demonstrated:
+
+1.accurate command interpretation
+2.coordinated multi-agent behaviour
+3.successful target localisation
+4.obstacle avoidance and recovery
+5.dynamic target switching
+
+All follower robots were able to complete assigned tasks and report back to the leader successfully.
+
+Technologies Used
+1.Webots
+2.Python
+3.Natural Language Processing
+4.Computer Vision
+5.Finite State Machines
+6.Multi-Agent Robotics
 
 Example command:
 
 ```text
 Find chai in the east
+
+
+
+
