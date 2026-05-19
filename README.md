@@ -30,6 +30,8 @@ The project combines concepts from:
 ---
 
 ## System Architecture
+<img width="648" height="911" alt="image" src="https://github.com/user-attachments/assets/97e718d6-2424-4041-a2e6-0083225a610d" />
+
 The system follows a **star topology architecture**:
 
 - **1 Leader Robot**
