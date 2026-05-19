@@ -56,7 +56,7 @@ Results
 
 The system successfully demonstrated:
 
-1.accurate command interpretation
+- accurate command interpretation
 2.coordinated multi-agent behaviour
 3.successful target localisation
 4.obstacle avoidance and recovery
